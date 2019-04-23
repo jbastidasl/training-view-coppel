@@ -1,0 +1,26 @@
+{
+  "name": "coppel",
+  "version": "0.0.1",
+  "description": "pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "antonio",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "jest": "^24.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbastidasl/training-view-coppel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbastidasl/training-view-coppel/issues"
+  },
+  "homepage": "https://github.com/jbastidasl/training-view-coppel#readme"
+}
